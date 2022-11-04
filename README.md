@@ -117,7 +117,6 @@ flutter doctor
 2. To add an API key to the Android app, edit the ```AndroidManifest.xml``` file in ```android/app/src/main```. Add a single meta-data entry containing the API key created in the previous step.
 3. To add an API key to the iOS app, edit the ```AppDelegate.swift``` file in ```ios/Runner```. Unlike Android, adding an API key on iOS requires changes to the source code of the Runner app. The AppDelegate is the core singleton that is part of the app initialization process.
 
-4. [For more on google map](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#3)
 
 
 For help getting started with Flutter, check [online documentation](https://flutter.dev/docs), which offers great tutorials, samples, guidance on mobile development, and a full API reference. If you run into any issue or question, feel free to reach out to us via email info@tochycomputerservices.com
