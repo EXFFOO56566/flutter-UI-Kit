@@ -120,7 +120,7 @@ flutter doctor
 4. [For more on google map](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#3)
 
 
-For help getting started with Flutter, check [online documentation](https://flutter.dev/docs), which offers great tutorials, samples, guidance on mobile development, and a full API reference. If you run into any issue or question, feel free to reach out to us via email support@coderthemes.com
+For help getting started with Flutter, check [online documentation](https://flutter.dev/docs), which offers great tutorials, samples, guidance on mobile development, and a full API reference. If you run into any issue or question, feel free to reach out to us via email info@tochycomputerservices.com
 
 ### Flutter packages used in FlutKit:
 
