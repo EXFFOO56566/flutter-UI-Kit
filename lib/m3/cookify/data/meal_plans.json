@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Breakfast",
+    "image" : "./assets/images/apps/cookify/meal-1.jpg",
+    "title" : "Poached Egg",
+    "time" : "Breakfast Time : 07:30"
+  },
+  {
+    "name" : "Lunch",
+    "image" : "./assets/images/apps/cookify/meal-2.jpg",
+    "title" : "Burger",
+    "time" : "Lunch Time : 01:10"
+  },
+  {
+    "name" : "Lemonade",
+    "image" : "./assets/images/apps/cookify/meal-3.jpg",
+    "title" : "Poached Egg",
+    "time" : "Snacks Time : 05:15"
+  },
+  {
+    "name" : "Pop corn",
+    "image" : "./assets/images/apps/cookify/meal-4.jpg",
+    "title" : "Poached Egg",
+    "time" : "Dinner Time : 08:30"
+  }
+]

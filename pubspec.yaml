@@ -1,0 +1,226 @@
+name: flutkit
+description: A new Flutter project.
+
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 6.1.0
+versionCode: 4
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutx:
+    path: ../flutx
+
+
+  # Base Dependencies
+  cupertino_icons: ^1.0.3
+  provider: ^5.0.0
+  shared_preferences: ^2.0.5
+  google_fonts: ^2.0.0
+
+  # Icons
+  material_design_icons_flutter: 5.0.5955-rc.1
+  flutter_feather_icons: ^2.0.0+1
+
+  #(Syncfusion Flutter packages - Charts, Calendar, ETC.)
+  syncfusion_flutter_core: ^19.4.38
+  syncfusion_flutter_calendar: ^19.4.38
+  syncfusion_flutter_datepicker: ^19.4.38
+  syncfusion_flutter_sliders: ^19.4.38
+  syncfusion_flutter_charts: ^19.4.38
+  syncfusion_flutter_gauges: ^19.4.38
+
+  # Other
+  google_maps_flutter: ^2.0.3
+  shimmer: ^2.0.0
+  url_launcher: ^6.0.3
+  intl: ^0.17.0
+  rive: ^0.8.1
+  flare_flutter: ^3.0.2
+  flutter_intro: ^2.3.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+
+  assets:
+
+
+    #Map Styles
+    - assets/map/
+
+
+    #Profiles
+    - assets/images/profile/
+
+
+    #Shopping
+    - assets/images/apps/shopping/
+    - assets/images/apps/shopping/product/
+    - assets/images/apps/shopping/offer/
+    - assets/images/apps/shopping/camera/
+    - assets/images/apps/shopping/vector/
+
+    #Shopping2
+    - assets/images/apps/shopping2/icons/
+    - assets/images/apps/shopping2/images/
+    - lib/full_apps/shopping/data/
+
+
+    #Brand
+    - assets/brand/
+
+    #Hotel
+    - assets/images/apps/hotel/
+
+    #Places
+    - assets/images/place/
+
+    #Music
+    - assets/images/apps/music/
+
+    #Food
+    - assets/images/apps/food/
+
+    #estate
+    - assets/images/apps/estate/
+
+    #Course
+    - assets/images/apps/course/
+
+    #Chat
+    - assets/images/apps/chat/
+
+    #Social
+    - assets/images/apps/social/
+
+    #Other
+    - assets/images/all/
+
+    #Event
+    - assets/images/apps/event/
+
+
+    ###################---------------------- Custom Apps -------------------------#################
+
+    ##Grocery
+    - assets/images/apps/grocery/
+
+    ##homemade
+    - assets/images/apps/homemade/
+    - assets/images/apps/homemade/products/
+    - assets/images/apps/homemade/category/
+    - assets/images/apps/homemade/shop/
+    - lib/apps/homemade/data/
+
+    ##dating
+    - assets/images/apps/dating/
+
+    ##Muvi
+    - assets/images/apps/muvi/
+    - lib/apps/muvi/data/
+
+    ##CustomApps
+    - assets/images/apps/cookify/
+    - assets/images/apps/grocery/
+    - assets/images/apps/medicare/
+
+    ##Learning  (Material Design 3)
+    - assets/images/apps/learning/images/
+    - assets/images/apps/learning/icons/
+    - lib/m3/learning/data/
+
+    ##Cookify (Material Design 3)
+    - lib/m3/cookify/data/
+
+    ##Estate (Material Design 3)
+    - lib/m3/estate/data/
+
+    ##Dating (Material Design 3)
+    - lib/apps/dating/data/
+
+    #Illustration
+    - assets/illustration/food/
+    - assets/illustration/shopping/
+    - assets/illustration/hotel/
+    - assets/illustration/music/
+
+    #Month backgrounds
+    - assets/images/month_background/
+
+    #Languages
+    - assets/lang/
+
+    #Icons
+    - assets/icons/
+
+    #Rive Animations
+    - assets/animations/rive/
+
+    #Other
+    - assets/other/
+
+    ###################---------------------- Full Apps -------------------------#################
+
+    #NFT
+    - assets/images/full_apps/nft/icons/
+    - assets/images/full_apps/nft/images/
+    - lib/full_apps/nft/data/
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
+

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Duplex Home",
+    "image": "assets/images/apps/estate/estate7.jpg",
+    "location": "1691 DownTown, Boston",
+    "description": "DownTown is a very spacious place. It is in the center of the town and all the daily valuables are available in the shops found here...",
+    "price": 2200.0,
+    "area": 150.0,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "floors": 2,
+    "agent": {
+      "name": "Jelly Grande",
+      "image": "assets/images/profile/avatar_4.jpg",
+      "address": "DownTown, Boston",
+      "number": "+65 8123 456 7890",
+      "properties": "10 Listings",
+      "description": "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+    }
+  },
+  {
+    "name": "Bluish Homie",
+    "image": "assets/images/apps/estate/estate4.jpg",
+    "location": "2715, Bell Street, San Jose",
+    "description": "San Jose is a very spacious place. It is in the center of the town and all the daily valuables are available in the shops found here...",
+    "price": 1800.0,
+    "area": 120.0,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "floors": 1,
+    "agent": {
+      "name": "Jelly Grande",
+      "image": "assets/images/profile/avatar_4.jpg",
+      "address": "DownTown, Boston",
+      "number": "+65 8123 456 7890",
+      "properties": "10 Listings",
+      "description": "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+    }
+  },
+  {
+    "name": "Black Modern House",
+    "image": "assets/images/apps/estate/estate6.jpg",
+    "location": "New York Street, 1260",
+    "description": "New York is a very spacious place. It is in the center of the town and all the daily valuables are available in the shops found here...",
+    "price": 2000.0,
+    "area": 180.0,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "floors": 2,
+    "agent": {
+      "name": "Jelly Grande",
+      "image": "assets/images/profile/avatar_4.jpg",
+      "address": "DownTown, Boston",
+      "number": "+65 8123 456 7890",
+      "properties": "10 Listings",
+      "description": "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+    }
+  },
+  {
+    "name": "Central Edmon",
+    "image": "assets/images/apps/estate/estate2.jpg",
+    "location": "118 Street, West Edmonton, Alberta",
+    "description": "Edmonton is a very spacious place. It is in the center of the town and all the daily valuables are available in the shops found here...",
+    "price": 1500.0,
+    "area": 220.0,
+    "bedrooms": 8,
+    "bathrooms": 3,
+    "floors": 3,
+    "agent": {
+      "name": "Jelly Grande",
+      "image": "assets/images/profile/avatar_4.jpg",
+      "address": "DownTown, Boston",
+      "number": "+65 8123 456 7890",
+      "properties": "10 Listings",
+      "description": "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+    }
+  }
+]

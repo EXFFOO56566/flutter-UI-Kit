@@ -1,0 +1,14 @@
+[
+  {
+    "period": "Monthly",
+    "trial": "Without trial",
+    "description": "Per month",
+    "price": 9.99
+  },
+  {
+    "period": "Yearly",
+    "trial": "14-day trial",
+    "description": "Per year",
+    "price": 49.99
+  }
+]

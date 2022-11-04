@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "Calories",
+    "unit_type" : "Kcal",
+    "unit" :250
+  },
+  {
+    "name" : "Carbo",
+    "unit_type" : "g",
+    "unit" :35
+  },
+  {
+    "name" : "Calories",
+    "unit_type" : "g",
+    "unit" :6.8
+  }
+]

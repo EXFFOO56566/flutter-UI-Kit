@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Free",
+    "features": "Basic Features",
+    "price": 0.0
+  },
+  {
+    "type": "Basic",
+    "features": "Essential Features",
+    "price": 19.9
+  },
+  {
+    "type": "Standard",
+    "features": "Standard Features",
+    "price": 39.9
+  },
+  {
+    "type": "Premium",
+    "features": "Premium Features",
+    "price": 69.9
+  }
+]

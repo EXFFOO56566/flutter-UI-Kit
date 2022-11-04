@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Basics of Designing",
+    "time": "1 hour, 25 mins",
+    "icon": "assets/images/apps/learning/icons/document_1.png",
+    "professor": "Prof. Helly Shah",
+    "description": "Designing ia a very creative subject that can be used in making websites and applications. Without the concept of designing we can not make anything.",
+    "color": "16a058",
+    "chapter": 24,
+    "exam": 12,
+    "reward": 5,
+    "completed": 80.00
+  },
+  {
+    "name": "Human Respiratory System",
+    "time": "4 hours, 10 mins",
+    "icon": "assets/images/apps/learning/icons/document_2.png",
+    "professor": "Prof. John Smith",
+    "description": "Designing ia a very creative subject that can be used in making websites and applications. Without the concept of designing we can not make anything.",
+    "color": "e55d27",
+    "chapter": 22,
+    "exam": 15,
+    "reward": 8,
+    "completed": 66.66
+  },
+  {
+    "name": "Integration & Differentiation",
+    "time": "2 hours, 37 mins",
+    "icon": "assets/images/apps/learning/icons/document_3.png",
+    "professor": "Prof. Kelly Grey",
+    "description": "Designing ia a very creative subject that can be used in making websites and applications. Without the concept of designing we can not make anything.",
+    "color": "46A4E4",
+    "chapter": 18,
+    "exam": 20,
+    "reward": 3,
+    "completed": 33.33
+  }
+]

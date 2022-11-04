@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Men's",
+    "icon": "assets/images/apps/shopping2/icons/tshirt_outline.png"
+  },
+  {
+    "name": "Women's",
+    "icon": "assets/images/apps/shopping2/icons/dress_outline.png"
+  },
+  {
+    "name": "Headphone's",
+    "icon": "assets/images/apps/shopping2/icons/headphone_outline.png"
+  },
+  {
+    "name": "Shoe's",
+    "icon": "assets/images/apps/shopping2/icons/shoes_outline.png"
+  },
+  {
+    "name": "Watch's",
+    "icon": "assets/images/apps/shopping2/icons/watch_outline.png"
+  },
+  {
+    "name": "Mobile's",
+    "icon": "assets/images/apps/shopping2/icons/mobile_outline.png"
+  },
+  {
+    "name": "Laptop's",
+    "icon": "assets/images/apps/shopping2/icons/laptop_outline.png"
+  }
+]

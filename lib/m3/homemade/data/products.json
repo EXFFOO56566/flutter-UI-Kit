@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cream Cakes",
+    "description": "These are simple Cream Cakes with only cream decoration with different colors. Decoration will include different designs and techniques. Extra price for extra decoration and customisation.",
+    "url": "./assets/images/apps/homemade/products/cake2.jpg",
+    "price": 299.0,
+    "rating": 4.5,
+    "rating_count": 1000,
+    "quantity": 3
+  },
+  {
+    "name": "Mehandi",
+    "description": "These are home made chocolates with delicious taste. It contains dry fruits and coconut as its ingredients. It contains all pure and healthy ingredients. It also contains choco chips as its toppings.",
+    "url": "./assets/images/apps/homemade/products/mehandi.jpg",
+    "price": 199.99,
+    "rating": 4.8,
+    "rating_count": 1000,
+    "quantity": 3
+  },
+  {
+    "name": "Chocolates",
+    "description": "These are home made chocolates with delicious taste. It contains dry fruits and coconut as its ingredients. It contains all pure and healthy ingredients. It also contains choco chips as its toppings.",
+    "url": "./assets/images/apps/homemade/products/chocolate.jpg",
+    "price": 399.99,
+    "rating": 3.5,
+    "rating_count": 1000,
+    "quantity": 3
+  },
+  {
+    "name": "Haircut",
+    "description": "These are home made chocolates with delicious taste. It contains dry fruits and coconut as its ingredients. It contains all pure and healthy ingredients. It also contains choco chips as its toppings.",
+    "url": "./assets/images/apps/homemade/products/haircut.jpg",
+    "price": 450,
+    "rating": 3.2,
+    "rating_count": 1000,
+    "quantity": 3
+  },
+  {
+    "name": "Cup cakes",
+    "description": "These are home made cup cakes with delicious taste. It contains dry fruits and coconut as its ingredients. It contains all pure and healthy ingredients. It also contains choco chips as its toppings.",
+    "url": "./assets/images/apps/homemade/products/cupcake.jpg",
+    "price": 99,
+    "rating": 4.0,
+    "rating_count": 1000,
+    "quantity": 3
+  },
+  {
+    "name": "Nail Polish",
+    "description": "These are home made chocolates with delicious taste. It contains dry fruits and coconut as its ingredients. It contains all pure and healthy ingredients. It also contains choco chips as its toppings.",
+    "url": "./assets/images/apps/homemade/products/nailpolish.jpg",
+    "price": 79,
+    "rating": 4.3,
+    "rating_count": 1000,
+    "quantity": 3
+  },
+  {
+    "name": "Donuts",
+    "description": "These are home made chocolates with delicious taste. It contains dry fruits and coconut as its ingredients. It contains all pure and healthy ingredients. It also contains choco chips as its toppings.",
+    "url": "./assets/images/apps/homemade/products/donut.jpg",
+    "price": 59,
+    "rating": 3.8,
+    "rating_count": 1000,
+    "quantity": 3
+  },
+  {
+    "name": "Pasta",
+    "description": "These are home made chocolates with delicious taste. It contains dry fruits and coconut as its ingredients. It contains all pure and healthy ingredients. It also contains choco chips as its toppings.",
+    "url": "./assets/images/apps/homemade/products/pasta.jpg",
+    "price": 29,
+    "rating": 3.7,
+    "rating_count": 1000,
+    "quantity": 3
+  }
+]

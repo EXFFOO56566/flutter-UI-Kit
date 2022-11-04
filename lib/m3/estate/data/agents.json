@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "Jelly Grande",
+    "image" : "assets/images/profile/avatar_4.jpg",
+    "address" : "DownTown, Boston",
+    "number" : "+65 8123 456 7890",
+    "properties" : "10 Listings",
+    "description" : "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+  },
+  {
+    "name" : "Emillie Joans",
+    "image" : "assets/images/profile/avatar_1.jpg",
+    "address" : "DownTown, New York",
+    "number" : "+65 8123 456 7890",
+    "properties" : "5 Listings",
+    "description" : "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+  },
+  {
+    "name" : "John Farnandise",
+    "image" : "assets/images/profile/avatar_2.jpg",
+    "address" : "DownTown, Edmonton",
+    "number" : "+65 8123 456 7890",
+    "properties" : "8 Listings",
+    "description" : "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+  },
+  {
+    "name" : "Harry Scott",
+    "image" : "assets/images/profile/avatar_3.jpg",
+    "address" : "DownTown, Indonesia",
+    "number" : "+65 8123 456 7890",
+    "properties" : "12 Listings",
+    "description" : "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+  },
+  {
+    "name" : "Elizabeth Palson",
+    "image" : "assets/images/profile/avatar_5.jpg",
+    "address" : "DownTown, California",
+    "number" : "+65 8123 456 7890",
+    "properties" : "6 Listings",
+    "description" : "I provide real estates such as home, apartment, and houses to rent and buy. The modern and minimalist design interior and building will give you the greatest experience and comfortable place guarantee. What are you waiting for? Come and get it..."
+  }
+]

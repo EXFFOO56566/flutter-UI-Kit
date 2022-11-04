@@ -1,0 +1,62 @@
+[
+  {
+    "movie": {
+      "name": "Avengers Endgame",
+      "image": "assets/images/apps/muvi/endgame.jpg",
+      "production": "Marvel Production",
+      "description": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
+      "director": "Anthony Russo",
+      "writer": "Joe Russo",
+      "ratings": 3.0,
+      "cast": [
+        "assets/images/apps/muvi/cast_1.jpg",
+        "assets/images/apps/muvi/cast_2.jpg",
+        "assets/images/apps/muvi/cast_3.jpg",
+        "assets/images/apps/muvi/cast_4.jpg",
+        "assets/images/apps/muvi/cast_5.jpg"
+      ]
+    },
+    "totalSize": 25,
+    "downloadedSize": 9.9
+  },
+  {
+    "movie": {
+      "name": "Frozen",
+      "image": "assets/images/apps/muvi/frozen.jpeg",
+      "production": "Marvel Production",
+      "description": "Frozen is a 2013 American computer-animated musical fantasy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures.",
+      "director": "Chris Buck",
+      "writer": "Jennifer Lee",
+      "ratings": 5.0,
+      "cast": [
+        "assets/images/apps/muvi/cast_6.jpg",
+        "assets/images/apps/muvi/cast_7.jpg",
+        "assets/images/apps/muvi/cast_8.jpg",
+        "assets/images/apps/muvi/cast_9.jpg",
+        "assets/images/apps/muvi/cast_10.jpg"
+      ]
+    },
+    "totalSize": 16.8,
+    "downloadedSize": 5.6
+  },
+  {
+    "movie": {
+      "name": "Lord of the Rings",
+      "image": "assets/images/apps/muvi/lor.jpg",
+      "production": "New Line Cinema",
+      "description": "The Lord of the Rings is a series of three epic fantasy adventure films directed by Peter Jackson, based on the novel written by J. R. R. Tolkien.",
+      "director": "Peter Jackson",
+      "writer": "Barrie M. Osborne",
+      "ratings": 3.0,
+      "cast": [
+        "assets/images/apps/muvi/cast_6.jpg",
+        "assets/images/apps/muvi/cast_7.jpg",
+        "assets/images/apps/muvi/cast_8.jpg",
+        "assets/images/apps/muvi/cast_9.jpg",
+        "assets/images/apps/muvi/cast_10.jpg"
+      ]
+    },
+    "totalSize": 19.9,
+    "downloadedSize": 11.2
+  }
+]

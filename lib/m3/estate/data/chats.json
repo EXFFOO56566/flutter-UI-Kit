@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "Dr. John Rodriguez",
+    "image" : "assets/images/profile/avatar_2.jpg",
+    "chat" : "Hello, how can i help you?",
+    "time" : "14:22 am",
+    "messages" : "2",
+    "replied" : false
+  },
+  {
+    "name" : "Dr. Elizabeth Scott",
+    "image" : "assets/images/profile/avatar_1.jpg",
+    "chat" : "Thank you for visiting.",
+    "time" : "05:25 pm",
+    "messages" : "2",
+    "replied" : true
+  },
+  {
+    "name" : "Dr. Miguel Johnson",
+    "image" : "assets/images/profile/avatar_3.jpg",
+    "chat" : "What are your requirements?",
+    "time" : "12:32 am",
+    "messages" : "1",
+    "replied" : false
+  },
+  {
+    "name" : "Dr. Sarah Palson",
+    "image" : "assets/images/profile/avatar_4.jpg",
+    "chat" : "I want a 2 floored house.",
+    "time" : "07:56 am",
+    "messages" : "2",
+    "replied" : true
+  },
+  {
+    "name" : "Dr. Anna Handy",
+    "image" : "assets/images/profile/avatar_5.jpg",
+    "chat" : "Hello, when will you be available?",
+    "time" : "16:45 am",
+    "messages" : "2",
+    "replied" : true
+  }
+]

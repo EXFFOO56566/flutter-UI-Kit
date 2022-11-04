@@ -1,0 +1,47 @@
+[
+  {
+    "product": {
+      "name": "Pink & Blue Top",
+      "image": "assets/images/apps/shopping2/images/photo2.jpg",
+      "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+      "rating": 4.5,
+      "review": 125,
+      "price": 150.0,
+      "color": "#FFADAD",
+      "quantity": 8
+    },
+    "selectedSize": "XL",
+    "quantity": 2,
+    "selectedColor": "#FFADAD"
+  },
+  {
+    "product": {
+      "name": "White off shoulder",
+      "image": "assets/images/apps/shopping2/images/photo3.jpg",
+      "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+      "rating": 4.5,
+      "review": 125,
+      "price": 135.5,
+      "color": "#B1D4F8",
+      "quantity": 5
+    },
+    "selectedSize": "L",
+    "quantity": 2,
+    "selectedColor": "#B1D4F8"
+  },
+  {
+    "product": {
+      "name": "Red & Blue Jacket",
+      "image": "assets/images/apps/shopping2/images/photo5.jpg",
+      "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+      "rating": 4.5,
+      "review": 125,
+      "price": 170.0,
+      "color": "#FFC6FF",
+      "quantity": 6
+    },
+    "selectedSize": "M",
+    "quantity": 1,
+    "selectedColor": "#FFADAD"
+  }
+]

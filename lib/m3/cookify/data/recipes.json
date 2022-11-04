@@ -1,0 +1,26 @@
+[
+  {
+    "title" : "Matar Paneer",
+    "tag" : "South",
+    "image" : "./assets/images/apps/cookify/recipe-2.jpg",
+    "preparation_time" : 30,
+    "serving" : 1,
+    "favourite" : true
+  },
+  {
+    "title" : "Tandoori Chicken",
+    "tag" : "Non Veg",
+    "image" : "./assets/images/apps/cookify/recipe-3.jpg",
+    "preparation_time" : 40,
+    "serving" : 1,
+    "favourite" : false
+  },
+  {
+    "title" : "Aloo Gobi",
+    "tag" : "Cheese",
+    "image" : "./assets/images/apps/cookify/recipe-4.jpg",
+    "preparation_time" : 20,
+    "serving" : 1,
+    "favourite" : true
+  }
+]

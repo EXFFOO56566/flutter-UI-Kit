@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cake Shop",
+    "url": "./assets/images/apps/homemade/shop/cake-shop.jpg",
+    "location": "(3.2 km) Yogi Chowk, Surat",
+    "description": "We provide all types of home made cakes using all healthy ingredients. We supply pre order cakes and you have to order prior 1-2 days minimum.",
+    "contact": "+91 9898925252",
+    "ratings": 4.5
+  },
+  {
+    "name": "Henna by Kajal",
+    "url": "./assets/images/apps/homemade/shop/tattoo-shop.jpg",
+    "location": "(5.9 km) Varachha, Surat",
+    "description": "We provide all types of home made cakes using all healthy ingredients. We supply pre order cakes and you have to order prior 1-2 days minimum.",
+    "contact": "+91 9898925252",
+    "ratings": 4.2
+  },
+  {
+    "name": "Reema's Kitchen",
+    "url": "./assets/images/apps/homemade/shop/pasta-shop.jpg",
+    "location": "(4.5 km) Adajan, Surat.",
+    "description": "We provide all types of home made cakes using all healthy ingredients. We supply pre order cakes and you have to order prior 1-2 days minimum.",
+    "contact": "+91 9898925252",
+    "ratings": 3.5
+  },
+  {
+    "name": "Saloni's Art",
+    "url": "./assets/images/apps/homemade/shop/nailpolish-shop.jpg",
+    "location": "(1.5 km) Pal, Surat.",
+    "description": "We provide all types of home made cakes using all healthy ingredients. We supply pre order cakes and you have to order prior 1-2 days minimum.",
+    "contact": "+91 9898925252",
+    "ratings": 4.0
+  },
+  {
+    "name": "Chocolicious",
+    "url": "./assets/images/apps/homemade/shop/chocolate-shop.jpg",
+    "location": "(7.5 km) Utran, Surat.",
+    "description": "We provide all types of home made cakes using all healthy ingredients. We supply pre order cakes and you have to order prior 1-2 days minimum.",
+    "contact": "+91 9898925252",
+    "ratings": 3.8
+  },
+  {
+    "name": "Joe's Saloon",
+    "url": "./assets/images/apps/homemade/shop/saloon.jpg",
+    "location": "(5.5 km) City light, Surat.",
+    "description": "We provide all types of home made cakes using all healthy ingredients. We supply pre order cakes and you have to order prior 1-2 days minimum.",
+    "contact": "+91 9898925252,",
+    "ratings": 4.2
+  }
+]

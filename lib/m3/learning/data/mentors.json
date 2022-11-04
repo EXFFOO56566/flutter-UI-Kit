@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Rowena",
+    "image": "assets/images/apps/learning/images/profile1.jpg",
+    "description": "UI Designer"
+  },
+  {
+    "name": "John",
+    "image": "assets/images/apps/learning/images/profile2.jpg",
+    "description": "Web Designer"
+  },
+  {
+    "name": "Natasha",
+    "image": "assets/images/apps/learning/images/profile3.jpg",
+    "description": "Maths Professor"
+  },
+  {
+    "name": "Henry",
+    "image": "assets/images/apps/learning/images/profile4.jpg",
+    "description": "Biology Professor"
+  },
+  {
+    "name": "Samantha",
+    "image": "assets/images/apps/learning/images/profile5.jpg",
+    "description": "History Professor"
+  }
+]

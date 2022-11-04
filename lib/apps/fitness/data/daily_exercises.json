@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Walking",
+    "type": "Steps",
+    "time": 7800,
+    "distance": 4.5,
+    "calories": 405,
+    "goal_data": 7000,
+    "achieve_data": 4086,
+    "color": "#A899FF",
+    "chart_data": [
+      {
+        "calories": 1,
+        "day": 1.2
+      },
+      {
+        "calories": 2,
+        "day": 2.0
+      },
+      {
+        "calories": 3,
+        "day": 4.0
+      },
+      {
+        "calories": 4,
+        "day": 2.2
+      },
+      {
+        "calories": 5,
+        "day": 2.8
+      },
+      {
+        "calories": 6,
+        "day": 4.6
+      },
+      {
+        "calories": 7,
+        "day": 2.2
+      },
+      {
+        "calories": 8,
+        "day": 3.0
+      }
+    ]
+  },
+  {
+    "name": "Gym",
+    "type": "Push-ups",
+    "time": 4500,
+    "distance": 2.5,
+    "calories": 320,
+    "goal_data": 8000,
+    "achieve_data": 4800,
+    "color": "#5C9AFF",
+    "chart_data": [
+      {
+        "calories": 1,
+        "day": 3.2
+      },
+      {
+        "calories": 2,
+        "day": 1.0
+      },
+      {
+        "calories": 3,
+        "day": 2.0
+      },
+      {
+        "calories": 4,
+        "day": 3.2
+      },
+      {
+        "calories": 5,
+        "day": 4.8
+      },
+      {
+        "calories": 6,
+        "day": 2.6
+      },
+      {
+        "calories": 7,
+        "day": 3.2
+      },
+      {
+        "calories": 8,
+        "day": 4.0
+      }
+    ]
+  },
+  {
+    "name": "Cycling",
+    "type": "KM",
+    "time": 4000,
+    "distance": 2.5,
+    "calories": 230,
+    "goal_data": 20,
+    "achieve_data": 8.4,
+    "color": "#EF8094",
+    "chart_data": [
+      {
+        "calories": 1,
+        "day": 2.2
+      },
+      {
+        "calories": 2,
+        "day": 4.0
+      },
+      {
+        "calories": 3,
+        "day": 3.0
+      },
+      {
+        "calories": 4,
+        "day": 4.2
+      },
+      {
+        "calories": 5,
+        "day": 5.8
+      },
+      {
+        "calories": 6,
+        "day": 2.6
+      },
+      {
+        "calories": 7,
+        "day": 23.2
+      },
+      {
+        "calories": 8,
+        "day": 3.0
+      }
+    ]
+  }
+]

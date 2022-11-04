@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Skipping",
+    "duration": "15 min",
+    "image": "assets/images/apps/fitness/images/skipping.png",
+    "color": "8B5587"
+  },
+  {
+    "name": "Running",
+    "duration": "3.5 km",
+    "image": "assets/images/apps/fitness/images/running.png",
+    "color": "4aa359"
+  },
+  {
+    "name": "Yoga",
+    "duration": "20 min",
+    "image": "assets/images/apps/fitness/images/yoga.png",
+    "color": "069DEF"
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "date": "18",
+    "day": "MON",
+    "exercises": [
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "08 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Sit up",
+        "duration": "3 set, 20 rep",
+        "time": "09 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Plank",
+        "duration": "3 set, 5 minutes",
+        "time": "10 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "11 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Bench Press",
+        "duration": "4 set, 15 rep",
+        "time": "01 PM",
+        "is_rest": false
+      },
+      {
+        "name": "Stretching",
+        "duration": "3 set, 10 minutes",
+        "time": "02 PM",
+        "is_rest": false
+      }
+    ]
+  },
+  {
+    "date": "19",
+    "day": "TUE",
+    "exercises": [
+      {
+        "name": "Push Ups",
+        "duration": "3 set, 20 rep",
+        "time": "08 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "09 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Dumbbell",
+        "duration": "3 set, 5 minutes",
+        "time": "10 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Side Planks",
+        "duration": "4 set, 15 rep",
+        "time": "11 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "01 PM",
+        "is_rest": true
+      },
+      {
+        "name": "Lunges",
+        "duration": "3 set, 10 minutes",
+        "time": "02 PM",
+        "is_rest": false
+      }
+    ]
+  },
+  {
+    "date": "20",
+    "day": "WED",
+    "exercises": [
+      {
+        "name": "Squats",
+        "duration": "3 set, 20 rep",
+        "time": "08 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Dead Lifts",
+        "duration": "3 set, 20 rep",
+        "time": "09 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Plank",
+        "duration": "3 set, 5 minutes",
+        "time": "10 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "11 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Burpees",
+        "duration": "4 set, 15 rep",
+        "time": "01 PM",
+        "is_rest": false
+      },
+      {
+        "name": "Yoga",
+        "duration": "3 set, 10 minutes",
+        "time": "02 PM",
+        "is_rest": false
+      }
+    ]
+  },
+  {
+    "date": "21",
+    "day": "THU",
+    "exercises": [
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "08 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Crunches",
+        "duration": "3 set, 20 rep",
+        "time": "09 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Bent Over",
+        "duration": "3 set, 5 minutes",
+        "time": "10 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Leg Press",
+        "duration": "4 set, 15 rep",
+        "time": "11 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "01 PM",
+        "is_rest": true
+      },
+      {
+        "name": "Snatch",
+        "duration": "3 set, 10 minutes",
+        "time": "02 PM",
+        "is_rest": false
+      }
+    ]
+  },
+  {
+    "date": "22",
+    "day": "FRI",
+    "exercises": [
+      {
+        "name": "Abdominal",
+        "duration": "3 set, 20 rep",
+        "time": "08 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "09 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Triceps",
+        "duration": "3 set, 5 minutes",
+        "time": "10 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Biceps",
+        "duration": "4 set, 15 rep",
+        "time": "11 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "01 PM",
+        "is_rest": true
+      },
+      {
+        "name": "Stretching",
+        "duration": "3 set, 10 minutes",
+        "time": "02 PM",
+        "is_rest": false
+      }
+    ]
+  },
+  {
+    "date": "23",
+    "day": "SAT",
+    "exercises": [
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "08 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Standing calf Raise",
+        "duration": "3 set, 20 rep",
+        "time": "09 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Sitting Calf raise",
+        "duration": "3 set, 5 minutes",
+        "time": "10 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "11 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Back Extension",
+        "duration": "4 set, 15 rep",
+        "time": "01 PM",
+        "is_rest": false
+      },
+      {
+        "name": "Plank",
+        "duration": "3 set, 10 minutes",
+        "time": "02 PM",
+        "is_rest": false
+      }
+    ]
+  },
+  {
+    "date": "24",
+    "day": "SUN",
+    "exercises": [
+      {
+        "name": "PullDown",
+        "duration": "3 set, 20 rep",
+        "time": "08 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "09 AM",
+        "is_rest": true
+      },
+      {
+        "name": "Pull Ups",
+        "duration": "3 set, 5 minutes",
+        "time": "10 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Crunches",
+        "duration": "4 set, 15 rep",
+        "time": "11 AM",
+        "is_rest": false
+      },
+      {
+        "name": "Rest",
+        "duration": "",
+        "time": "01 PM",
+        "is_rest": true
+      },
+      {
+        "name": "Dips",
+        "duration": "3 set, 10 minutes",
+        "time": "02 PM",
+        "is_rest": false
+      }
+    ]
+  }
+]

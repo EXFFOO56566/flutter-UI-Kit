@@ -1,0 +1,56 @@
+[
+  {
+    "name" : "Bitcoin",
+    "image" : "assets/images/full_apps/nft/icons/bitcoin.png",
+    "code" : "BTC",
+    "price" : 40584.60,
+    "price_change" : 1286.50,
+    "percent_change" : 1.54,
+    "date" : "2022-02-21T08:25:56.292678Z"
+  },
+  {
+    "name" : "Ethereum",
+    "image" : "assets/images/full_apps/nft/icons/ethereum.png",
+    "code" : "ETH",
+    "price" : 20276.39,
+    "price_change" : 692.79,
+    "percent_change" : 3.52,
+    "date" : "2022-01-26T09:07:22.292678Z"
+  },
+  {
+    "name" : "DogeCoin",
+    "image" : "assets/images/full_apps/nft/icons/dogecoin.png",
+    "code" : "DOGE",
+    "price" : 10.40,
+    "price_change" : -0.19,
+    "percent_change" : -1.88,
+    "date" : "2022-02-12T12:19:56.292678Z"
+  },
+  {
+    "name" : "Solana",
+    "image" : "assets/images/full_apps/nft/icons/chainlink.png",
+    "code" : "SOL",
+    "price" : 754.18,
+    "price_change" : 60.40,
+    "percent_change" : 8.95,
+    "date" : "2022-01-13T10:29:56.292678Z"
+  },
+  {
+    "name" : "Tether",
+    "image" : "assets/images/full_apps/nft/icons/tether.png",
+    "code" : "THR",
+    "price" : 74.48,
+    "price_change" : -0.18,
+    "percent_change" : -0.24,
+    "date" : "2022-01-29T05:23:56.292678Z"
+  },
+  {
+    "name" : "PolkaDot",
+    "image" : "assets/images/full_apps/nft/icons/polkadot.png",
+    "code" : "DOT",
+    "price" : 139.43,
+    "price_change" : -5.58,
+    "percent_change" : -3.99,
+    "date" : "2022-02-15T06:36:56.292678Z"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Samantha Brown",
+    "image": "assets/images/apps/dating/profile1.jpg",
+    "description": "I'm Samantha from Belgium. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Travelling",
+      "Singing",
+      "Reading",
+      "Trekking",
+      "Diving"
+    ],
+    "profession": "Fashion Designer",
+    "company_name": "Adorable Agency",
+    "age": 18
+  },
+  {
+    "name": "Arjav Wilson",
+    "image": "assets/images/apps/dating/profile2.jpg",
+    "description": "I'm Arjav from Texas. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Diving",
+      "Photography",
+      "Trekking"
+    ],
+    "profession": "Project Manager",
+    "company_name": "Cloud Infotech",
+    "age": 21
+  },
+  {
+    "name": "Naira Anderson",
+    "image": "assets/images/apps/dating/profile3.jpg",
+    "description": "I'm Naira from Melbourne. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Travelling",
+      "Singing",
+      "Reading"
+    ],
+    "profession": "Jewellery Designer",
+    "company_name": "Styling Agency",
+    "age": 23
+  },
+  {
+    "name": "Swayam Taylor",
+    "image": "assets/images/apps/dating/profile4.jpg",
+    "description": "I'm Swayam from New Jersey. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Diving",
+      "Photography",
+      "Trekking"
+    ],
+    "profession": "OnSite Engineer",
+    "company_name": "Lotus Agency",
+    "age": 19
+  },
+  {
+    "name": "Hannah Scott",
+    "image": "assets/images/apps/dating/profile5.jpg",
+    "description": "I'm Hannah from Boston. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Travelling",
+      "Singing",
+      "Reading"
+    ],
+    "profession": "Hair Artist",
+    "company_name": "Pink Parlour",
+    "age": 22
+  },
+  {
+    "name": "Darsh Watson",
+    "image": "assets/images/apps/dating/profile6.jpg",
+    "description": "I'm Darsh from New Zealand. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Diving",
+      "Photography",
+      "Trekking"
+    ],
+    "profession": "Content Writer",
+    "company_name": "Express Agency",
+    "age": 20
+  },
+  {
+    "name": "Sharon Gray",
+    "image": "assets/images/apps/dating/profile7.jpg",
+    "description": "I'm Sharon from Thailand. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Travelling",
+      "Singing",
+      "Reading"
+    ],
+    "profession": "Photographer",
+    "company_name": "Creative Agency",
+    "age": 17
+  },
+  {
+    "name": "Ishaan Martin",
+    "image": "assets/images/apps/dating/profile8.jpg",
+    "description": "I'm Ishaan from Malaysia. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Diving",
+      "Photography",
+      "Trekking"
+    ],
+    "profession": "Video Editor",
+    "company_name": "Baseline Agency",
+    "age": 22
+  },
+  {
+    "name": "Charlie Williams",
+    "image": "assets/images/apps/dating/profile9.jpg",
+    "description": "I'm Charlie from Singapore. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Travelling",
+      "Singing",
+      "Reading"
+    ],
+    "profession": "Sales Assistant",
+    "company_name": "Inspire Intelligence",
+    "age": 18
+  },
+  {
+    "name": "Reyansh Walker",
+    "image": "assets/images/apps/dating/profile10.jpg",
+    "description": "I'm Reyansh from Bangkok. I am looking for special person also I want to meet different people and learn new things from different cultures and visit new places.",
+    "interests": [
+      "Diving",
+      "Photography",
+      "Trekking"
+    ],
+    "profession": "Marketing Manager",
+    "company_name": "Abstract Agency",
+    "age": 24
+  }
+]

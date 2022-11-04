@@ -1,0 +1,26 @@
+[
+  {
+    "image" : "./assets/images/apps/cookify/dish-2.jpg",
+    "title" : "Cacoa Maca Walnut Milk",
+    "body" : "Easy, quick and yet so delicious!",
+    "likes" : 100,
+    "time" : 50,
+    "ingredients" : 2
+  },
+  {
+    "image" : "./assets/images/apps/cookify/dish-3.jpg",
+    "title" : "Danish Pecun",
+    "body" : "Typical winter pastries",
+    "likes" : 189,
+    "time" : 30,
+    "ingredients" : 1
+  },
+  {
+    "image" : "./assets/images/apps/cookify/dish-4.jpg",
+    "title" : "Maple Syrup Buns",
+    "body" : "Easy, quick and yet so delicious!",
+    "likes" : 100,
+    "time" : 30,
+    "ingredients" : 3
+  }
+]

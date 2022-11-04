@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Harry Johns",
+    "url": "./assets/images/profile/avatar_2.jpg",
+    "email": "harry@yahoo.com"
+  },
+  {
+    "name": "Sonia Stevens",
+    "url": "./assets/images/profile/avatar_1.jpg",
+    "email": "sonia@yahoo.com"
+  }
+]

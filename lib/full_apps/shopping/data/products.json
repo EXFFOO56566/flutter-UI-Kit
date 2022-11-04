@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Pink & Blue Top",
+    "image": "assets/images/apps/shopping2/images/photo2.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 4.5,
+    "review": 125,
+    "price": 150.0,
+    "color": "#FFADAD",
+    "quantity": 8,
+    "favorite": true
+  },
+  {
+    "name": "White off shoulder",
+    "image": "assets/images/apps/shopping2/images/photo3.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 3.5,
+    "review": 125,
+    "price": 135.5,
+    "color": "#B1D4F8",
+    "quantity": 5,
+    "favorite": false
+  },
+  {
+    "name": "Red & Blue Jacket",
+    "image": "assets/images/apps/shopping2/images/photo5.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 4.0,
+    "review": 125,
+    "price": 170.0,
+    "color": "#FFC6FF",
+    "quantity": 6,
+    "favorite": true
+  },
+  {
+    "name": "Trendy White Top",
+    "image": "assets/images/apps/shopping2/images/photo10.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 3.0,
+    "review": 125,
+    "price": 129.9,
+    "color": "#FFADAD",
+    "quantity": 3,
+    "favorite": true
+  },
+  {
+    "name": "Black Men's Wear",
+    "image": "assets/images/apps/shopping2/images/photo8.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 4.5,
+    "review": 125,
+    "price": 140.0,
+    "color": "#A0C4FF",
+    "quantity": 5,
+    "favorite": false
+  },
+  {
+    "name": "Couple Tshirts",
+    "image": "assets/images/apps/shopping2/images/photo7.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 4.2,
+    "review": 125,
+    "price": 135.5,
+    "color": "#fdffb6",
+    "quantity": 9,
+    "favorite": false
+  },
+  {
+    "name": "White Men's Wear",
+    "image": "assets/images/apps/shopping2/images/photo4.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 4.0,
+    "review": 125,
+    "price": 125.5,
+    "color": "#9BF6FF",
+    "quantity": 4,
+    "favorite": false
+  },
+  {
+    "name": "Black Men's Jacket",
+    "image": "assets/images/apps/shopping2/images/photo6.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 3.7,
+    "review": 125,
+    "price": 180.0,
+    "color": "#CAFFBF",
+    "quantity": 8,
+    "favorite": true
+  },
+  {
+    "name": "White tshirt",
+    "image": "assets/images/apps/shopping2/images/photo1.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 3.8,
+    "review": 125,
+    "price": 120.0,
+    "color": "#BDB2FF",
+    "quantity": 6,
+    "favorite": true
+  },
+  {
+    "name": "Men's White Formal",
+    "image": "assets/images/apps/shopping2/images/photo9.jpg",
+    "description": "Cool, Windy weather is on its way. Send him out the door in a jacket he wants to wear. Warm Zipper Hoodie Jacket. Try it out to feel comfy",
+    "rating": 3.5,
+    "review": 125,
+    "price": 99.99,
+    "color": "#ffd6a5",
+    "quantity": 10,
+    "favorite": false
+  }
+]
